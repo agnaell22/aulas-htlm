@@ -4,4 +4,4 @@ aqui foi utilizado uma imagem de fonte storyseet
 https://storyset.com/illustration/pipeline-maintenance/cuate
 
 fonte do google fonts,
- proximas etapas integra manco de dados e crir pagina de cadastro via formulario e banco de dados.
+ proximas etapas integra banco de dados backend e crir pagina de cadastro via formulario e banco de dados.
